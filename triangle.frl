@@ -6,3 +6,5 @@ VAR bc = b + c
 
 IF a < bc THEN
 SAY("This triangle is perfect")
+
+#This code doesn't works.
