@@ -1,0 +1,8 @@
+FUN lol(number)
+SAY(number)
+#comment
+END
+
+lol(3)
+
+
