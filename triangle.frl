@@ -2,5 +2,7 @@ VAR a = INPUT()
 VAR b = INPUT()
 VAR c = INPUT()
 
-IF a < b + c THEN
+VAR bc = b + c
+
+IF a < bc THEN
 SAY("This triangle is perfect")
