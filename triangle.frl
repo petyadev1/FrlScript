@@ -1,0 +1,6 @@
+VAR a = INPUT()
+VAR b = INPUT()
+VAR c = INPUT()
+
+IF a < b + c THEN
+SAY("This triangle is perfect")
